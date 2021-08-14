@@ -118,7 +118,7 @@
     background-color: white;
 }
 
-/* main body */
+
 
 /* body-color */
 
@@ -127,31 +127,10 @@ body {
     font-size: 18px;
 }
 
-/* body {
-  color: black;
-  font-size: 18px;
-} */
-
-/* main a -- links */
-
-/* a {
-  color: #009688;
-} */
 
 a {
     color: #004d40;
 }
-
-/* main blockqoute */
-
-/* blockquote {
-  border-left: 5px solid #795548;
-  color: #795548;
-  font-size: 125%;
-  font-weight: 400;
-  margin: 20px 0;
-  padding-left: 1.5rem;
-} */
 
 blockquote {
     border-left: 5px solid #795548;
@@ -227,13 +206,7 @@ ul.side-nav li {
     padding: 0;
 }
 
-/* ul.side-nav.fixed a {
-  box-sizing: content-box;
-  color: rgb(48, 122, 207);
-  display: block;
-  line-height: 100%;
-  padding: 10px 0 12px;
-} */
+
 
 ul.side-nav.fixed a {
     box-sizing: content-box;
@@ -249,13 +222,7 @@ ul.table-of-contents li.logo a:hover {
     font-weight: 200;
 }
 
-/* ul.side-nav.fixed li.logo {
-  background-color: #fafafa;
-  border-bottom: 1px solid #ddd;
-  box-sizing: content-box;
-  min-height: 90px;
-  padding: 30px 30px 40px;
-} */
+
 
 ul.side-nav.fixed li.logo {
     background-color: #fafafa;
@@ -368,8 +335,7 @@ h3 {
 }
 
 .waves-effect.waves-blue .waves-ripple {
-    /* The alpha value allows the text and background color
-   of the button to still show through. */
+    
     background-color: rgba(33, 150, 243, 0.2);
 }
 
