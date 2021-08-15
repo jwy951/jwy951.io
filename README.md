@@ -3,7 +3,8 @@
 
 > https://jwy951.github.io/portfolio/
 
-
+# Author ⚡️
+> Yegon Johnstone
 
 ## Features 📋
 ⚡️ Fully Responsive\
